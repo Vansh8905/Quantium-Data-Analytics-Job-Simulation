@@ -25,7 +25,8 @@ This virtual experience program focuses on analyzing chip purchases at supermark
 - **Packages:** pandas, matplotlib, numpy , Seaborn
 
 ## Certificate
-![Certificate Image](Quantium Data_Analyics_page-0001.jpg)
+![Quantium Data_Analyics_page-0001](https://github.com/Vansh8905/Quantium-Data-Analytics-Job-Simulation/assets/90714562/6fd66b68-fd16-46a1-91f9-ad939c7423ec)
+
 
 
 
