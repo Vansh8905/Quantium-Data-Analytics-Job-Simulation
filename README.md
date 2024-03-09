@@ -24,8 +24,8 @@ This virtual experience program focuses on analyzing chip purchases at supermark
 - **Language:** Python 3.12.1
 - **Packages:** pandas, matplotlib, numpy , Seaborn
 
-
-![Certificate Image](certificate_image.jpg)
+## Certificate
+![Certificate Image](Quantium Data_Analyics_page-0001.jpg)
 
 
 
