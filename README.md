@@ -25,4 +25,8 @@ This virtual experience program focuses on analyzing chip purchases at supermark
 - **Packages:** pandas, matplotlib, numpy , Seaborn
 
 
+![Certificate Image](certificate_image.jpg)
+
+
+
 
